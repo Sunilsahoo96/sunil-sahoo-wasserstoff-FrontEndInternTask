@@ -39,7 +39,7 @@ git clone https://github.com/Sunilsahoo96/sunil-sahoo-wasserstoff-FrontEndIntern
 cd sunil-sahoo-wasserstoff-FrontEndInternTask
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 npm install
 
