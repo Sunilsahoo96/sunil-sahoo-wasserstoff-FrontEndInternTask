@@ -57,4 +57,7 @@ Typing indicators show when someone is actively editing.
 ---
 ## 🚀 Live Demo
 
-👉 [Click here to view the live app](https://sunil-sahoo-wasserstoff.onrender.com)
+## 🚀 Live Demo
+
+👉 **[Click here to view the live app](https://sunil-sahoo-wasserstoff.onrender.com)**
+
