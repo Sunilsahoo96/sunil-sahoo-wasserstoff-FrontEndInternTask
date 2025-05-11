@@ -38,8 +38,8 @@ This is the **frontend** for a Real-Time Collaborative Text Editor built using:
 git clone https://github.com/Sunilsahoo96/sunil-sahoo-wasserstoff-FrontEndInternTask.git
 cd sunil-sahoo-wasserstoff-FrontEndInternTask
 
-
-### 2️⃣ Install Dependencies
+```bash
+##2️⃣ Install Dependencies
 
 npm install
 
