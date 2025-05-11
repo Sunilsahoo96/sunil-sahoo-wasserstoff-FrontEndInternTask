@@ -54,10 +54,4 @@ See others’ cursors, names, and edits in real time.
 
 Typing indicators show when someone is actively editing.
 
----
-## 🚀 Live Demo
-
-## 🚀 Live Demo
-
-👉 **[Click here to view the live app](https://sunil-sahoo-wasserstoff.onrender.com)**
 
